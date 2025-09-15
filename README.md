@@ -3,8 +3,7 @@
 
 
 - 👋 Hi, I’m @ParvinderBabar
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I am a Full Stack Developer specialising in React ,NEXT.JS, Typescript, AWS. My current interests include DEVOPS learing Terraform. I have one years of experience in the industry and I have built applications for the GE AEROSPACE.
 - 💞️ I’m looking to collaborate with others on exciting project and expanding my skills 
 - 📫 How to reach me: You can email me at parvinderbabar@gmail.com to discuss potential collaboration opportunities.
       Connect with me on www.linkedin.com/in/babarparvinder to stay updated on my latest projects and activities.
