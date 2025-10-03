@@ -3,7 +3,7 @@ Full Stack Developer - Node.js, React.js, TypeScript, AWS
 New York, USA
 parvinderbabar@gmail.com
 
-FULL STACK Developer with hands on experience in Node.js, React.js, TypeScript, AWS and Apache NIFI. My current interests include DEVOPS learning DOCKER, TERRAFORM. I have 5 months of experience in the industry, and I have built applications for GE AEROSPACE as a Developer.
+FULL STACK Developer with hands on experience in Node.js, React.js, TypeScript, AWS and Apache NIFI. My current interests include DEVOPS learning DOCKER, TERRAFORM. As a professional developer ,I built applications for GE AEROSPACE as a Developer.
 
 
 - <img width="785" alt="jsceertificate" src="https://github.com/ParvinderBabar/ParvinderBabar/assets/125162844/dde3b189-76fb-4439-806d-a9534b9d58bc">
