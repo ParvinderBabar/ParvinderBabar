@@ -49,6 +49,22 @@
 
 
 ---
+---
+
+## 📝 Featured Articles & Projects
+
+I love sharing my learnings, tutorials, and project experiences on **Medium**. Here are some highlights:  
+
+<div align="center">
+
+[![Medium Article 1](https://miro.medium.com/max/700/1*6fLRe5PXGjqzj6v8kclZ9Q.png)](https://medium.com/@parvinderbabar/building-a-custom-vpc-on-aws-using-terraform-ad41fbfb8c8c)  
+[![Medium Article 2](https://miro.medium.com/max/700/1*SjF8Yt5VvS6WgHhgRkZfGA.png)](https://medium.com/@parvinderbabar/article-2-link)  
+[![Medium Article 3](https://miro.medium.com/max/700/1*IhFqXUvKkCYoNivk5F3fNQ.png)](https://medium.com/@parvinderbabar/article-3-link)
+
+</div>
+
+Read more of my articles on [Medium](https://medium.com/@parvinderbabar) 🌟
+
 
 ### 🔗 Connect with Me
 
