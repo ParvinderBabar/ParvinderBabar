@@ -7,10 +7,11 @@
 
 
 <h2 style="color:#ff69b4;">Full Stack Developer | DevOps Explorer | Coffee Debugger ☕</h2>
+ New York, USA
+ 
+ <em></b> 📧 parvinderbabar@gmail.com </em>
  
 
-📍 New York, USA  
-📧 parvinderbabar@gmail.com 
 
 
 
