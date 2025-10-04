@@ -22,13 +22,15 @@
 <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajU5azh0bmJiaGE0bzAxeGJ1bDVhdWZ1Yzdoc3ZwZWdyNnBjMjF0cyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/GB6qkAvTyB1r8sOPuS/giphy.webp" width="230">
 
 <div style="background: linear-gradient(90deg, #ff9a9e, #fad0c4, #fbc2eb, #a6c1ee); padding: 25px; border-radius: 20px;">
+<h3 style="color:#ff69b4;">💼 Software Developer | Previously at GE Aerospace</h3>
 
-💼 **Software Engineer** — previously at **GE Aerospace** ✈️  
-🌱 Exploring **DevOps & Cloud**: Docker 🐳, Terraform 🌍, AWS ☁️  
-🚀 Building **scalable, cloud-native applications**  
-✨ Obsessed with **productivity hacks** & journaling progress 📓  
-🎶 Passionate about **music, movies & tech inspiration**  
-☕ Fun fact: Coffee + Code = Infinite Productivity  
+<h3 style="color:#ff69b4;">🎓 Qualification: B.Tech in Computer Science</h3>
+
+<h3>🌱 Exploring <strong>DevOps & Cloud</strong>: Docker 🐳, Terraform 🌍, AWS ☁️</h3>
+<h3>🚀 Building <strong>scalable, cloud-native applications</strong></h3>
+<h3>✨ Obsessed with <strong>productivity hacks</strong> & journaling progress 📓</h3>
+<h3>🎶 Passionate about <strong>music, movies & tech inspiration</strong></h3>
+<h3>☕ Fun fact: Coffee + Code = Infinite Productivity</h3>
 
 
 
