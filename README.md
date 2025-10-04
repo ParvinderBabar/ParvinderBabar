@@ -25,8 +25,9 @@
 <h3 style="color:#ff69b4;">💼 Software Developer | Previously at GE Aerospace</h3>
 
 <h3 style="color:#ff69b4;">🎓 Qualification: B.Tech in Computer Science</h3>
+<h3 style="color:#ff69b4;">🎓 Postgraduate Diploma: Web Design & Development, Conestoga College, Canada (2 years)</h3>
 
-<h3>🌱 Exploring <strong>DevOps & Cloud</strong>: Docker 🐳, Terraform 🌍, AWS ☁️</h3>
+<h3>🌱 Exploring <strong>DevOps & Cloud</strong>: Docker 🐳, Terraform, AWS ☁️</h3>
 <h3>🚀 Building <strong>scalable, cloud-native applications</strong></h3>
 <h3>✨ Obsessed with <strong>productivity hacks</strong> & journaling progress 📓</h3>
 <h3>🎶 Passionate about <strong>music, movies & tech inspiration</strong></h3>
