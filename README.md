@@ -49,24 +49,26 @@
 
 
 ---
----
 
-## 📝 Featured Articles & Projects
+## 📝 My articles on [Medium](https://medium.com/@parvinderbabar) 🌟
 
-I love sharing my learnings, tutorials, and project experiences on **Medium**. Here are some highlights:  
+I love sharing tutorials and project experiences on **Medium**. Here are some highlights:  
 
 <div align="center">
 
-[![Medium Article 1](https://miro.medium.com/max/700/1*6fLRe5PXGjqzj6v8kclZ9Q.png)](https://medium.com/@parvinderbabar/building-a-custom-vpc-on-aws-using-terraform-ad41fbfb8c8c)  
-[![Medium Article 2](https://miro.medium.com/max/700/1*SjF8Yt5VvS6WgHhgRkZfGA.png)](https://medium.com/@parvinderbabar/article-2-link)  
-[![Medium Article 3](https://miro.medium.com/max/700/1*IhFqXUvKkCYoNivk5F3fNQ.png)](https://medium.com/@parvinderbabar/article-3-link)
+[![Building a Custom VPC on AWS](https://miro.medium.com/v2/resize:fit:200/format:webp/1*3yzxSu0CUHwDCecZiN5FEg.png)](https://medium.com/@parvinderbabar/building-a-custom-vpc-on-aws-using-terraform-ad41fbfb8c8c)  
+[![Hosting a Static Website on AWS](https://miro.medium.com/v2/resize:fit:200/format:webp/0*WVMKsYe2RKk2fVsz)](https://medium.com/@parvinderbabar/hosting-a-static-website-on-aws-s3-using-terraform-16a631a67f32)  
 
 </div>
 
-Read more of my articles on [Medium](https://medium.com/@parvinderbabar) 🌟
+Read more articles on [Medium](https://medium.com/@parvinderbabar) 🌟
+
+---
 
 
-### 🔗 Connect with Me
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> — say hi anytime! 😊</em>
+
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babarparvinder/) 
 
@@ -79,9 +81,5 @@ Read more of my articles on [Medium](https://medium.com/@parvinderbabar) 🌟
 
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> — say hi anytime! 😊</em>
 
----
 
-✨ "Code is like humor. When you have to explain it, it’s bad."  
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200">
