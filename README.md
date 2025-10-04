@@ -51,8 +51,12 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvinderbabar/) 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babarparvinder/) 
+
 [![GitHub followers](https://img.shields.io/github/followers/ParvinderBabar?label=Follow&style=social)](https://github.com/ParvinderBabar) 
+
+[![Medium](https://img.shields.io/badge/-Medium-00ab6c?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@parvinderbabar)  
 ![](https://visitor-badge.glitch.me/badge?page_id=ParvinderBabar.ParvinderBabar)
 
 ---
