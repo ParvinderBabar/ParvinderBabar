@@ -54,7 +54,7 @@
 
 ---
 
-## 📝 My articles on [Medium](https://medium.com/@parvinderbabar) 🌟
+## 📝 My Cloud Journey on [Medium](https://medium.com/@parvinderbabar) 🌟
 
 I love sharing tutorials and project experiences on **Medium**. Here are some highlights:  
 
